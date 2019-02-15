@@ -5,7 +5,7 @@
   "homepage": "http://github.com/JustinPierce/phonegap-mobile-accessibility#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JustinPierce/phonegap-mobile-accessibility.git"
+    "url": "https://github.com/JustinPierce/phonegap-mobile-accessibility"
   },
   "bugs": {
     "url": "https://github.com/JustinPierce/phonegap-mobile-accessibility/issues"
