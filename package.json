@@ -26,12 +26,9 @@
     "cordova-android",
     "cordova-windows"
   ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=3.0.0"
-    }
-  ],
+  "engines": {
+    "cordova": ">=3.0.0"
+  },
   "author": "Adobe PhoneGap Team",
   "license": "Apache 2.0"
 }
